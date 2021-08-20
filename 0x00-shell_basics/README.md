@@ -1,2 +1,3 @@
-#this is the working environment for current project
-**Have a snack and enjoy**
+# Basics of shell commands
+
+Find here the main shell commands you can directly run for different purposes (the name of the file describes what the command does)
