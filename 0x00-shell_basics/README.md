@@ -1,1 +1,2 @@
-a script that prints the absolute path name of the current working directory.
+#this is the working environment for current project
+**Have a snack and enjoy**
